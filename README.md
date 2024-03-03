@@ -6,7 +6,7 @@ I have built this portfolio website as one of my sedond year academic project.
 
 This website showcases my technical skills as a developer, designer, photographer and an educator.
 
-## Project Description
+### Project Description
 
 Create an interactive multimedia portfolio website that showcases your skills, achievements,
 and creative work. This project involves designing a personal website and integrating
@@ -34,7 +34,7 @@ networking opportunities.
 a. My written articles to share knowledge.
 10. Social Media Integration.
 
-#### Technologiesb used
+### Technologiesb used
 * HTML
 * CSS
 * JavaScript 
@@ -43,5 +43,6 @@ a. My written articles to share knowledge.
 * GitHub
 
 
-##### To view my website 
+## To view my website 
 https://manalmurshid.github.io/portfolio/
+
